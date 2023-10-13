@@ -3,6 +3,7 @@ let untyped = '';
 let typed = '';
 let score = 0;
 
+
 // 必要なHTML要素の取得
 const untypedfield = document.getElementById('untyped');
 const typedfield = document.getElementById('typed');
